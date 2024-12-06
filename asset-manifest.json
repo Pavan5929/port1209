@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Pavan5929.github.io/port1209/static/css/main.064daa48.css",
-    "main.js": "/Pavan5929.github.io/port1209/static/js/main.7aea3e14.js",
-    "static/js/453.b12a1191.chunk.js": "/Pavan5929.github.io/port1209/static/js/453.b12a1191.chunk.js",
-    "static/media/email2b.jpg": "/Pavan5929.github.io/port1209/static/media/email2b.9fbac49ae6fc73381596.jpg",
-    "static/media/Poppins-Thin.ttf": "/Pavan5929.github.io/port1209/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
-    "static/media/Poppins-Light.ttf": "/Pavan5929.github.io/port1209/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
-    "static/media/Poppins-Regular.ttf": "/Pavan5929.github.io/port1209/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/Poppins-Medium.ttf": "/Pavan5929.github.io/port1209/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/Pavan5929.github.io/port1209/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
-    "static/media/Poppins-Bold.ttf": "/Pavan5929.github.io/port1209/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/Poppins-ExtraBold.ttf": "/Pavan5929.github.io/port1209/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "static/media/graduation.jpg": "/Pavan5929.github.io/port1209/static/media/graduation.782c41404bfafe1eed43.jpg",
-    "static/media/photo.jpeg": "/Pavan5929.github.io/port1209/static/media/photo.0b1cca9ae5166c0f4c63.jpeg",
-    "static/media/FfT324.jpg": "/Pavan5929.github.io/port1209/static/media/FfT324.ce4ebf8436b4d02b0187.jpg",
-    "static/media/logo.svg": "/Pavan5929.github.io/port1209/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Pavan5929.github.io/port1209/index.html",
-    "main.064daa48.css.map": "/Pavan5929.github.io/port1209/static/css/main.064daa48.css.map",
-    "main.7aea3e14.js.map": "/Pavan5929.github.io/port1209/static/js/main.7aea3e14.js.map",
-    "453.b12a1191.chunk.js.map": "/Pavan5929.github.io/port1209/static/js/453.b12a1191.chunk.js.map"
+    "main.css": "/port1209/static/css/main.870f289c.css",
+    "main.js": "/port1209/static/js/main.298d656e.js",
+    "static/js/453.b12a1191.chunk.js": "/port1209/static/js/453.b12a1191.chunk.js",
+    "static/media/email2b.jpg": "/port1209/static/media/email2b.9fbac49ae6fc73381596.jpg",
+    "static/media/Poppins-Thin.ttf": "/port1209/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/port1209/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/port1209/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/port1209/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/port1209/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/port1209/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/port1209/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/graduation.jpg": "/port1209/static/media/graduation.782c41404bfafe1eed43.jpg",
+    "static/media/photo.jpeg": "/port1209/static/media/photo.0b1cca9ae5166c0f4c63.jpeg",
+    "static/media/FfT324.jpg": "/port1209/static/media/FfT324.ce4ebf8436b4d02b0187.jpg",
+    "static/media/logo.svg": "/port1209/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/port1209/index.html",
+    "main.870f289c.css.map": "/port1209/static/css/main.870f289c.css.map",
+    "main.298d656e.js.map": "/port1209/static/js/main.298d656e.js.map",
+    "453.b12a1191.chunk.js.map": "/port1209/static/js/453.b12a1191.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.064daa48.css",
-    "static/js/main.7aea3e14.js"
+    "static/css/main.870f289c.css",
+    "static/js/main.298d656e.js"
   ]
 }
