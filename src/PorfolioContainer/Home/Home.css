@@ -1,0 +1,9 @@
+.home-container{
+    display: flex;
+    flex-direction:column ;
+    justify-content: space-between;
+    min-height: 670px;
+background: linear-gradient(to bottom, rgba(63, 94, 251, 0.7), rgba(252, 70, 107, 0.7)),
+        url('../../assets/Home/FfT324.jpg');
+    background-repeat: no-repeat;
+}  
